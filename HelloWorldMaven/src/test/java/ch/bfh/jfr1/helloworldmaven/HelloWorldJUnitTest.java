@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
  */
 public class HelloWorldJUnitTest {
 
-    String message = "Hello World";
+    String message = "Hello World, Rolf";
     HelloWorld helloWorld;
 
     public HelloWorldJUnitTest() {
